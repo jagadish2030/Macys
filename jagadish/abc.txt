@@ -1,2 +1,3 @@
+love u
 select * from dual
 select * from table
